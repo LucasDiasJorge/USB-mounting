@@ -23,3 +23,11 @@ Command to display all usb and respectives mountpoint:
 ```sh
 lsblk
 ```
+
+#### Ref
+
+https://askubuntu.com/questions/311772/how-do-i-know-the-device-path-to-an-usb-stick
+
+https://guialinux.uniriotec.br/lsblk/
+
+https://docs.oracle.com/cd/E19120-01/open.solaris/819-1634/rfsrefer-19/index.html
