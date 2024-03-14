@@ -31,3 +31,5 @@ https://askubuntu.com/questions/311772/how-do-i-know-the-device-path-to-an-usb-s
 https://guialinux.uniriotec.br/lsblk/
 
 https://docs.oracle.com/cd/E19120-01/open.solaris/819-1634/rfsrefer-19/index.html
+
+https://www.google.com/amp/s/www.partitionwizard.com/partitionmagic/mount-usb-drive-linux.html%3famp
